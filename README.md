@@ -1,6 +1,6 @@
 ![](docs/board_0.jpg)
 
-# BearlyML-Arty-FPGA-PCB
+# BearlyML Carrier Arty PCB
 
 This is an adapter board between BearlyML Module board and the Arty 35T / 100T FPGA.
 
