@@ -35,7 +35,7 @@ This board level-shifts between the BearlyML 1.8V signal and the Arty PMOD 3.3V 
 | Build Time | 4-5 days |
 | Layers | 4  |
 | PCB Qty | 5 |
-| PCB Thickness | 1.6 |
+| PCB Thickness | 1.6 mm |
 | Base Material | FR-4 |
 | Material Type | FR4-Standard TG 135-140 |
 | Dimension | 108 mm* 70 mm |
@@ -62,11 +62,11 @@ Manufactured with [JLCPCB](https://jlcpcb.com/).
 
 ## Manufacture Cost
 
-PCB: $11.78 for 5 pcs
+PCB: $11.78 each
 
-Assembly: $20.80 for 5 pcs including BOM part cost
+Assembly: $20.80 each excluding BOM part cost
 
-Total: $162.82
+Total: $162.82 for 5 pcs
 
 ## 3D View
 
